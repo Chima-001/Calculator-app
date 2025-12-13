@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+
+#display{
+    background-color: darkslategrey;
+    color: whitesmoke;
+    text-align: right;
+    font-size: 20vw;
+    border: none;
+    width: 100%;
+    height: 40vw;
+    margin-bottom: 5%;
+    box-sizing: border-box;
+}
+
+button{
+    border: none;
+    border-radius: 100%;
+    color: white;
+    width: 20%;
+    height: 20vw;
+    font-weight: bold;
+    font-size: 8vw;
+    margin: 8px 7px;
+}
+.kays{
+    background-color: darkorange;
+}
+.keys{
+    background-color:darkslategrey;
+}
+
+.keays{
+    background-color: darkorange;
+    width: 25%;
+}
+.alig{
+    padding-left: 4%;
+}
+.inp{
+    margin-left: 15%;
+    margin-right: 25%;
+    background-size: cover;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vw;
+}
+.equal{
+    background-color: darkorange;
+    border-radius: 40%;
+    width: 30%;
+    font-size: 10vw;
+    font-family: 'Times New Roman', Times, serif;
+}
