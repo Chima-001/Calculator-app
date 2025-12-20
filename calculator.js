@@ -56,9 +56,4 @@ function deleteValue(){
     displayEl.value = displayEl.value.slice(0, - 1)
 }
 
-
-/*if (displayEl.value.includes(`E`) || displayEl.value.includes(result)){
-    displayEl.value = value;
-} else {
-    displayEl.value += value;
-}*/
+
